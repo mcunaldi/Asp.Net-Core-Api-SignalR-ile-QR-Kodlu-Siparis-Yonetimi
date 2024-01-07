@@ -1,0 +1,17 @@
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.BussinessLayer.deps.json
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.BussinessLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.BussinessLayer.pdb
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.DataAccessLayer.pdb
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\bin\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.csproj.CopyComplete
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\refint\SignalR.BussinessLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BussinessLayer.pdb
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\ref\SignalR.BussinessLayer.dll
