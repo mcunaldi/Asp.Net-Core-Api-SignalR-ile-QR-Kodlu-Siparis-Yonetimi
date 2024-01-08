@@ -9,3 +9,4 @@ C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRDtoLa
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRDtoLayer\obj\Debug\net6.0\refint\SignalR.DtoLayer.dll
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRDtoLayer\obj\Debug\net6.0\SignalR.DtoLayer.pdb
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRDtoLayer\obj\Debug\net6.0\ref\SignalR.DtoLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRDtoLayer\obj\Debug\net6.0\SignalR.DtoLayer.sourcelink.json
