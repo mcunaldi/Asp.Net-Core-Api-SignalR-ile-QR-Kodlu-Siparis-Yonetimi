@@ -76,3 +76,4 @@ C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRApi\b
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRApi\bin\Debug\net6.0\SignalR.DtoLayer.dll
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRApi\bin\Debug\net6.0\SignalR.BusinessLayer.pdb
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRApi\bin\Debug\net6.0\SignalR.DtoLayer.pdb
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalRApi\obj\Debug\net6.0\SignalRApi.sourcelink.json

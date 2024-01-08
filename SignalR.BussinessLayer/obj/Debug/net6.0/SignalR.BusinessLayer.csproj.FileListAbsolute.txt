@@ -15,3 +15,4 @@ C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.Buss
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\refint\SignalR.BusinessLayer.dll
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.pdb
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\ref\SignalR.BusinessLayer.dll
+C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.BussinessLayer\obj\Debug\net6.0\SignalR.BusinessLayer.sourcelink.json
