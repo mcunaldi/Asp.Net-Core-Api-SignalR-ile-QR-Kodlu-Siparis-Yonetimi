@@ -1,6 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SignalR.BusinessLayer.Abstract;
+using SignalR.DtoLayer.MenuTableDto;
+using SignalR.EntityLayer.Entities;
 
 namespace SignalRApi.Controllers;
 [Route("api/[controller]/[action]")]
@@ -18,5 +19,56 @@ public class MenuTablesController : ControllerBase
 	public IActionResult MenuTableCount()
 	{
 		return Ok(_menuTableService.TMenuTableCount());
+	}
+	
+	[HttpGet]
+	public IActionResult MenuTableList()
+	{
+		var values = _menuTableService.TGetListAll();
+		return Ok(values);
+	}
+
+	[HttpPost]
+	public IActionResult CreateMenuTable(CreateMenuTableDto createMenuTableDto)
+	{
+		MenuTable menuTable = new MenuTable()
+		{
+			Name = createMenuTableDto.Name,
+			Status = false
+			
+		};
+
+		_menuTableService.TAdd(menuTable);
+		return Ok("Masa başarılı bir şekilde eklendi.");
+	}
+
+	[HttpDelete("{id}")]
+	public IActionResult DeleteMenuTable(int id)
+	{
+		var value = _menuTableService.TGetById(id);
+		_menuTableService.TDelete(value);
+		return Ok("Masa silindi.");
+	}
+
+	[HttpPut]
+	public IActionResult UpdateMenuTable(UpdateMenuTableDto updateMenuTableDto)
+	{
+		MenuTable MenuTable = new MenuTable()
+		{
+			Name= updateMenuTableDto.Name,
+			Status = updateMenuTableDto.Status,
+			MenuTableId = updateMenuTableDto.MenuTableId
+		};
+
+
+		_menuTableService.TUpdate(MenuTable);
+		return Ok("Masa güncellendi.");
+	}
+
+	[HttpGet("{id}")]
+	public IActionResult GetMenuTable(int id)
+	{
+		var value = _menuTableService.TGetById(id);
+		return Ok(value);
 	}
 }

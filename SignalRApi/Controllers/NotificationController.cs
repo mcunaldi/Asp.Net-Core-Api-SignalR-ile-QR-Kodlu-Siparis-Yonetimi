@@ -86,4 +86,18 @@ public class NotificationController : ControllerBase
         _notificationService.TUpdate(notification);
         return Ok("Güncelleme işlemi başarıyla yapıldı.");
     }
+
+    [HttpGet("{id}")]
+    public IActionResult NotificationStatusChangeToFalse(int id)
+    {
+        _notificationService.TNotificationStatusChangeToFalse(id);
+        return Ok("Güncelleme yapıldı.");
+    }
+
+	[HttpGet("{id}")]
+	public IActionResult NotificationStatusChangeToTrue(int id)
+	{
+		_notificationService.TNotificationStatusChangeToTrue(id);
+		return Ok("Güncelleme yapıldı.");
+	}
 }

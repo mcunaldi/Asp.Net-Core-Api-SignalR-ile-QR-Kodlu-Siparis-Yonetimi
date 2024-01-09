@@ -24,7 +24,6 @@ public class SignalRHub : Hub //bir sunucu görevi görecek. Dağıtım işlemi 
         _bookingService = bookingService;
         _notificationService = notificationService;
     }
-
     public async Task SendStatistic()
     {
         var value = _categoryService.TCategoryCount();
@@ -74,7 +73,6 @@ public class SignalRHub : Hub //bir sunucu görevi görecek. Dağıtım işlemi 
 		var value16 = _menuTableService.TMenuTableCount();
 		await Clients.All.SendAsync("ReceiveMenuTableCount", value16);
 	}              
-
 	public async Task SendProgress()
 	{
 		var value = _moneyCaseService.TTotalMoneyCaseAmount();
@@ -93,7 +91,6 @@ public class SignalRHub : Hub //bir sunucu görevi görecek. Dağıtım işlemi 
 		var values = _bookingService.TGetListAll();
 		await Clients.All.SendAsync("ReceiveBookingList", values);
 	}
-
 	public async Task SendNotification()
 	{
         var values = _notificationService.TNotificationCountByStatusFalse();
@@ -102,5 +99,10 @@ public class SignalRHub : Hub //bir sunucu görevi görecek. Dağıtım işlemi 
 		var notificationListByFalse = _notificationService.TGetAllNotificationByFalse();
 		await Clients.All.SendAsync("ReceiveNotificationListByFalse", notificationListByFalse);
     }
+	public async Task GetMenuTableStatus()
+	{
+		var value = _menuTableService.TGetListAll();
+		await Clients.All.SendAsync("ReceiveMenuTableStatus", value);
+	}
 }
 

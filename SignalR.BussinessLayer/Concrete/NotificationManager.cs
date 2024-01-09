@@ -42,7 +42,17 @@ public class NotificationManager : INotificationService
         return _notificationDal.GetListAll();
     }
 
-    public int TNotificationCountByStatusFalse()
+	public void TNotificationStatusChangeToFalse(int id)
+	{
+        _notificationDal.NotificationStatusChangeToFalse(id);
+	}
+
+	public void TNotificationStatusChangeToTrue(int id)
+	{
+		_notificationDal.NotificationStatusChangeToTrue(id);
+	}
+
+	public int TNotificationCountByStatusFalse()
     {
         return _notificationDal.NotificationCountByStatusFalse();
     }
