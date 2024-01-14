@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TzfDxWQzHCwkKfxUXxr4dP9oLCcSUaEMiUZ+oLT5+SjBp8OpUMlGViGOtKhQAsZ0MUc+7Im6+wNJIv7sQ6JodQ==",
+  "dgSpecHash": "2esypEZvlo1sJ+N/Sorc3ugT67olEFKPhUmRsMlQGZ2WLzh8IfySLL2XvqXx4u1wf/A5UZ2QLcO61HarIdHbyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalRDtoLayer\\SignalR.DtoLayer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalRDtoLayer\\SignalR.DtoLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berqq\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\berqq\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\berqq\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

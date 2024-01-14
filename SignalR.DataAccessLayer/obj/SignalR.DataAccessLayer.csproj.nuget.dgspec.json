@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {}
+    "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {
+    "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
         "projectName": "SignalR.DataAccessLayer",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\berqq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\berqq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj"
+              "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj"
               }
             }
           }
@@ -44,6 +44,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -81,17 +89,17 @@
         }
       }
     },
-    "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
+    "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "projectName": "SignalR.EntityLayer",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalR.EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\berqq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\berqq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,6 +124,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

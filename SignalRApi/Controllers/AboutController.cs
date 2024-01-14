@@ -46,7 +46,14 @@ public class AboutController : ControllerBase
         return Ok("Hakkımda alanı silindi.");
     }
 
-    [HttpPut]
+	[HttpGet("{id}")]
+	public IActionResult GetAbout(int id)
+	{
+		var value = _aboutService.TGetById(id);
+		return Ok(value);
+	}
+
+	[HttpPut]
     public IActionResult UpdateAbout(UpdateAboutDto updateAboutDto)
     {
         About about = new About()
@@ -62,10 +69,5 @@ public class AboutController : ControllerBase
         return Ok("Hakkımda alanı güncellendi.");
     }
 
-    [HttpGet("{id}")]
-    public IActionResult GetAbout(int id)
-    {
-        var value = _aboutService.TGetById(id);
-        return Ok(value);
-    }
+    
 }

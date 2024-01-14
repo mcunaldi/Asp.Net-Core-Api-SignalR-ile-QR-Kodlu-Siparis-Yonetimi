@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalRDtoLayer\\SignalR.DtoLayer.csproj": {}
+    "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalRDtoLayer\\SignalR.DtoLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalRDtoLayer\\SignalR.DtoLayer.csproj": {
+    "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalRDtoLayer\\SignalR.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalRDtoLayer\\SignalR.DtoLayer.csproj",
+        "projectUniqueName": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalRDtoLayer\\SignalR.DtoLayer.csproj",
         "projectName": "SignalR.DtoLayer",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalRDtoLayer\\SignalR.DtoLayer.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Masaüstü\\Murat Yücedağ\\UdemySignalRProject\\SignalRDtoLayer\\obj\\",
+        "projectPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalRDtoLayer\\SignalR.DtoLayer.csproj",
+        "packagesPath": "C:\\Users\\berqq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalRDtoLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\berqq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +50,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

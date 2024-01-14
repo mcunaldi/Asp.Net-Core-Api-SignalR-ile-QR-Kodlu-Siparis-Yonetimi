@@ -10,3 +10,16 @@ C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.Enti
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.pdb
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\ref\SignalR.EntityLayer.dll
 C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.sourcelink.json
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.deps.json
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.AssemblyInfo.cs
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.sourcelink.json
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.dll
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\refint\SignalR.EntityLayer.dll
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.pdb
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\ref\SignalR.EntityLayer.dll
+C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.csproj.AssemblyReference.cache

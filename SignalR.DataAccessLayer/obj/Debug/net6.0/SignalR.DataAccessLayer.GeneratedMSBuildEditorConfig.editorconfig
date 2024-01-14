@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SignalR.DataAccessLayer
-build_property.ProjectDir = C:\Users\PC\OneDrive\Masaüstü\Murat Yücedağ\UdemySignalRProject\SignalR.DataAccessLayer\
+build_property.ProjectDir = C:\Users\berqq\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalR.DataAccessLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
