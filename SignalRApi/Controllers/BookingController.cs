@@ -88,6 +88,3 @@ public class BookingController : ControllerBase
 
 
 }
-
-//void BookingStatusApproved(int id);
-//void BookingStatusCancelled(int id);

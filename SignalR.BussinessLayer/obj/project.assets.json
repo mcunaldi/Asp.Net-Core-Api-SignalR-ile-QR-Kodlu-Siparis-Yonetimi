@@ -2866,19 +2866,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\berqq\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.BussinessLayer\\SignalR.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.BussinessLayer\\SignalR.BusinessLayer.csproj",
       "projectName": "SignalR.BusinessLayer",
-      "projectPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.BussinessLayer\\SignalR.BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\berqq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.BussinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\PC\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.BussinessLayer\\SignalR.BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.BussinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\berqq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2892,8 +2892,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\berqq\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj"
+            "C:\\Users\\PC\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\PC\\OneDrive\\Belgeler\\GitHub\\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj"
             }
           }
         }

@@ -1,4 +1,4 @@
-﻿@model List<ResultFeatureDto>
+﻿@model List<ResultSliderDto>
 @{
 	ViewData["Title"] = "Index";
 	Layout = "~/Views/AdminLayout/Index.cshtml";
@@ -14,7 +14,7 @@
 					</div>
 					<div class="card-body">
 						<div class="card-sub">
-							Ana Sayfada öne çıkan alan ile ilgili işlemleri aşağıdan gerçekleştirebilirsiniz.
+							Ana Sayfada öne çıkan alan ile ilgili işlemleri aşağıdan gerçekleştirebilirsiniz. <strong>Lütfen sadece 1 tane önce çıkan alan verisi oluşturun</strong>
 						</div>
 						<table class="table mt-3">
 							<thead>
@@ -35,20 +35,20 @@
 								@foreach (var item in Model)
 								{
 									<tr>
-										<td>@item.FeatureId</td>
+										<td>@item.SliderId</td>
 										<td>@item.Title1</td>
 										<td>@item.Title2</td>
 										<td>@item.Title3</td>
 										<td>@item.Description1</td>
 										<td>@item.Description2</td>
 										<td>@item.Description3</td>
-										<td><a href="/Feature/DeleteFeature/@item.FeatureId" class="btn btn-outline-danger">Sil</a></td>
-										<td><a href="/Feature/UpdateFeature/@item.FeatureId" class="btn btn-outline-success">Güncelle</a></td>
+										<td><a href="/Slider/DeleteSlider/@item.SliderId" class="btn btn-outline-danger">Sil</a></td>
+										<td><a href="/Slider/UpdateSlider/@item.SliderId" class="btn btn-outline-success">Güncelle</a></td>
 									</tr>
 								}
 							</tbody>
 						</table>
-						<a href="/Feature/CreateFeature/" class="btn btn-outline-primary">Yeni Öne Çıkan Alan Girişi</a>
+						<a href="/Slider/CreateSlider/" class="btn btn-outline-primary">Yeni Öne Çıkan Alan Girişi</a>
 					</div>
 				</div>
 			</div>

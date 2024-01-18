@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using SignalR.BusinessLayer.Abstract;
 using SignalR.DtoLayer.AboutDto;
+using SignalR.DtoLayer.CategoryDto;
+using SignalR.EntityLayer.Entities;
 using SignalRApi.Controllers.DAL.Entities;
 
 namespace SignalRApi.Controllers;
@@ -55,7 +57,8 @@ public class AboutController : ControllerBase
 
 	[HttpPut]
     public IActionResult UpdateAbout(UpdateAboutDto updateAboutDto)
-    {
+	{
+
         About about = new About()
         {
             AboutId = updateAboutDto.AboutId,

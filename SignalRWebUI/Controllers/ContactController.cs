@@ -62,7 +62,7 @@ public class ContactController : Controller
 	public async Task<IActionResult> UpdateContact(int id)
 	{
 		var client = _httpClientFactory.CreateClient();
-		var responseMessage = await client.GetAsync($"https://localhost:7025/api/Contact/UpdateContact/{id}");
+		var responseMessage = await client.GetAsync($"https://localhost:7025/api/Contact/GetContact/{id}");
 		if (responseMessage.IsSuccessStatusCode)
 		{
 			var jsonData = await responseMessage.Content.ReadAsStringAsync();
@@ -78,7 +78,7 @@ public class ContactController : Controller
 		var client = _httpClientFactory.CreateClient();
 		var jsonData = JsonConvert.SerializeObject(updateContactDto);
 		StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
-		var responseMessage = await client.PutAsync("https://localhost:7025/api/About/UpdateContact/", stringContent);
+		var responseMessage = await client.PutAsync("https://localhost:7025/api/Contact/UpdateContact/", stringContent);
 		if (responseMessage.IsSuccessStatusCode)
 		{
 			return RedirectToAction("Index");

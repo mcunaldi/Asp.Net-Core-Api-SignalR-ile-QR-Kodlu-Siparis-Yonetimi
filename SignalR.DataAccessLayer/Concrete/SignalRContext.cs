@@ -14,7 +14,7 @@ public class SignalRContext:IdentityDbContext<AppUser, AppRole, int>
 {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Server=BERKPC\\SQLEXPRESS;initial Catalog=SignalRDb;integrated Security=true");
+        optionsBuilder.UseSqlServer("Server=MCU\\SQLEXPRESS;initial Catalog=SignalRDb;integrated Security=true");
     }
 
     public DbSet<About> Abouts { get; set; }

@@ -78,8 +78,8 @@ public class CategoryController : ControllerBase
     {
         _categoryService.TUpdate(new Category()
         {
-            CategoryName = updateCategoryDto.CategoryName,
             CategoryId = updateCategoryDto.CategoryId,
+            CategoryName = updateCategoryDto.CategoryName,
             Status = updateCategoryDto.Status
         });
         return Ok("Kategori güncellendi.");
