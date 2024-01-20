@@ -19,4 +19,9 @@ public interface IProductDal:IGenericDal<Product>
 	string ProductNamePriceByMin();
 
 	decimal ProductAvgPriceByHamburger();
+
+	decimal ProductPriceBySteakBurger();
+
+	decimal TotalPriceByDrinkCategory();
+	decimal TotalPriceBySaladCategory();
 }

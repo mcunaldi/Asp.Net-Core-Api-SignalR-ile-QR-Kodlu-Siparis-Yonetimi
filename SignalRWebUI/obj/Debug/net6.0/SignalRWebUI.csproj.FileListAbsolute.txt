@@ -760,3 +760,8 @@ C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Sipar
 C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.pdb
 C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\obj\Debug\net6.0\SignalRWebUI.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\obj\Debug\net6.0\ref\SignalRWebUI.dll
+C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\bin\Debug\net6.0\QRCoder.dll
+C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\bin\Debug\net6.0\MailKit.dll
+C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\bin\Debug\net6.0\MimeKit.dll
+C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\PC\OneDrive\Belgeler\GitHub\Asp.Net-Core-Api-SignalR-ile-QR-Kodlu-Siparis-Yonetimi-Udemy\SignalRWebUI\bin\Debug\net6.0\BouncyCastle.Crypto.dll

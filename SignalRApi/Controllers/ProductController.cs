@@ -35,7 +35,19 @@ public class ProductController : ControllerBase
         return Ok(_productService.TProductCount());
     }
 
-	[HttpGet]
+    [HttpGet]
+    public IActionResult TotalPriceByDrinkCategory()
+    {
+        return Ok(_productService.TTotalPriceByDrinkCategory());
+    }
+
+    [HttpGet]
+    public IActionResult TotalPriceBySaladCategory()
+    {
+        return Ok(_productService.TTotalPriceBySaladCategory());
+    }
+
+    [HttpGet]
 	public IActionResult ProductNamePriceByMax()
 	{
 		return Ok(_productService.TProductNamePriceByMax());
@@ -71,7 +83,13 @@ public class ProductController : ControllerBase
 		return Ok(_productService.TProductPriceAvg());
 	}
 
-	[HttpGet]
+    [HttpGet]
+    public IActionResult ProductPriceBySteakBurger()
+    {
+        return Ok(_productService.TProductPriceBySteakBurger());
+    }
+
+    [HttpGet]
     public IActionResult ProductListWithCategory()
     {
         var context = new SignalRContext();

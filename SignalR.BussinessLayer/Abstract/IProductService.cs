@@ -19,5 +19,11 @@ public interface IProductService:IGenericService<Product>
 	string TProductNamePriceByMax();
 	string TProductNamePriceByMin();
 
-	public decimal TProductAvgPriceByHamburger();
+	decimal TProductAvgPriceByHamburger();
+
+	decimal TProductPriceBySteakBurger();
+
+	decimal TTotalPriceByDrinkCategory();
+	decimal TTotalPriceBySaladCategory();
+
 }
